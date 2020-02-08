@@ -2,3 +2,4 @@ theme: jekyll-theme-modernist
 
 permalink: /index.html
 permalink: /livre.md
+permalink: /livre/test.js

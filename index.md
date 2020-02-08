@@ -10,6 +10,8 @@
 
 [Lien3](/test.md)
 
+[Lien3](/livre/test.js)
+
 ```javascript
     console.time("root t1");
 ```
