@@ -2,11 +2,9 @@
 
 ## En construction. ;-)
 
-[Lien](livre/index.html)
+[Lien1](/livre/index.hmd)
 
-[Lien2](livre/test.html)
+[Lien2](/livre/)
 
-[Lien3](test.html)
+[Lien3](/test.md)
 
-
-[Lien3](https://decidelafin.github.io/test.html)
