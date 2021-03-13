@@ -6,10 +6,11 @@
 
 [Lien1](/index.html)
 
-[Lien1a](/livre/)
+[Lien1a](/livre/)/)
+[Lien1a](/1/)
+[Lien1a](/page1/)
 
 [Lien2](/livre/index.html)
-[Lien2](/livre/index.md)
 
 [Lien3](/)
 
