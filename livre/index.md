@@ -6,9 +6,10 @@
 
 [Lien1](/index.html)
 
-[Lien1a](/index.md)
+[Lien1a](/livre/)
 
-[Lien2](/test.html)
+[Lien2](/livre/index.html)
+[Lien2](/livre/index.md)
 
 [Lien3](/)
 
