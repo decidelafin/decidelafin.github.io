@@ -1,11 +1,13 @@
-# Page de test C'est cette page. Home qui marche vers livre
+# Livre dont vous êtes le héros
 
-## En construction. ;-)
+## Sam le chevalier sans cheval
 
-### Root
+### Auteur Patrice Bergeron
+
+[Débutez la lecture à la page 1](/1/)
 
 [Lien2](/livre/)
 
 ```javascript
-    console.time("root t1");
+    console.time();
 ```
