@@ -2,8 +2,9 @@
 # Feuille de notes
 
 
-<input type="checkbox" name="scales">
+<input type="checkbox" name="Épée">
 
+<input type="checkbox" name="Bouclier">
 
 
 ## Objets trouvés
