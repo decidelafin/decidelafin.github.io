@@ -1,14 +1,7 @@
-﻿<html><head>
-<title>Sam le chevalier sans cheval</title>
-<link rel="stylesheet" type="text/css" href="../images/m.css">
-</head><body>
-<center><table width=100%><tr><td><center><table width=95%><tr><td><center>
-<img src="../images/chevalier.png"  height="80" width="80"> 
-<h1>1</h1></center>
-<p>Feuille de notes</p>
-<h3>
-<hr>
-Objets trouvés
+
+# Feuille de notes
+
+## Objets trouvés
 - [ ] Épée
 - [x] Bouclier
 
@@ -29,7 +22,3 @@ Objets trouvés
 - [x] Sac de pommes
 - [x] Sac de piments forts
 
-
-</h3></td></tr></table></center></td></tr></table></center>
-<hr>
-<body>
