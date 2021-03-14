@@ -8,8 +8,9 @@
 
 [Débutez la lecture à la page 1 (md)](/sam/1.html)
 
-[Débutez la lecture à la page 1 (html)](/html/1.html/)
+[Débutez la lecture à la page 1 (html)](/html/1.html/){:target="_blank"}
 
+[Ouvrez la feuille de notes](/sam.html/){:target="_blank"}
 
 [Lien2](/livre/)
 
