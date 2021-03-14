@@ -1,11 +1,10 @@
 
 # Feuille de notes
 
-<div>
-  <input type="checkbox" id="scales" name="scales"
-         checked>
-  <label for="scales">Scales</label>
-</div>
+
+<input type="checkbox" name="scales">
+
+
 
 ## Objets trouvés
 - [ ] Épée
