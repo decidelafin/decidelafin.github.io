@@ -3,9 +3,9 @@
 
 
 <input type="checkbox" name="Épée">
-
+<label for="Épée">Épée</label>
 <input type="checkbox" name="Bouclier">
-
+<label for="Bouclier">Bouclier</label>
 
 ## Objets trouvés
 - [ ] Épée
