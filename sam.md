@@ -1,19 +1,27 @@
 
 # Feuille de notes
 
-
+## Objets trouvés
 <input type="checkbox" name="Épée">
 <label for="Épée">Épée</label>
 <input type="checkbox" name="Bouclier">
 <label for="Bouclier">Bouclier</label>
 
-## Objets trouvés
-- [ ] Épée
-- [x] Bouclier
+<input type="checkbox" name="Bottes">
+<label for="Bottes">Bottes</label>
+<input type="checkbox" name="Armure">
+<label for="Armure">Armure</label>
+<input type="checkbox" name="Gants">
+<label for="Gants">Gants</label>
 
-- [x] Bottes
-- [x] Armure
-- [x] Gants
+<input type="checkbox" name="Bouclier">
+<label for="Bouclier">Bouclier</label>
+
+
+
+
+
+
 
 - [x] Souvenir #1
 - [x] Souvenir #2
