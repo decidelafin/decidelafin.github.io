@@ -5,7 +5,7 @@
 ### Auteur Patrice Bergeron
 
 
-[Débutez la lecture (html)](/html/1.html/){:target="_blank"}
+[Débutez la lecture](/html/1.html/){:target="_blank"}
 
 [Ouvrez la feuille de notes](/sam.html){:target="_blank"}
 
